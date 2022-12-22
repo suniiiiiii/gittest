@@ -11,7 +11,8 @@ class AdminApplicationTests {
 
 		int a = 10;
 		int b = 10;
-		int d = 30;
+		int c = 30;
+		int d = 20;
 	}
 
 }
