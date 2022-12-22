@@ -8,7 +8,7 @@ class AdminApplicationTests {
 
 	@Test
 	void contextLoads() {
-		int i = 10
+		int a = 10;
 	}
 
 }
