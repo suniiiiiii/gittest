@@ -8,6 +8,7 @@ class AdminApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int i = 10
 	}
 
 }
